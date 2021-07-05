@@ -13,4 +13,4 @@ Za pokretanje aplikacije potrebno je imati instaliran Node.js.
  1. Pozicionirati se u direktorij 'frontend'
  2. Pozvati naredbu npm install
  3. Pozvati naredbu npm start
- 4. Sada je poslužitelj pokrenut na http://localhost:3000
+ 4. Sada je klijentska strana pokrenuta na http://localhost:3000
