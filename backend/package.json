@@ -1,0 +1,23 @@
+{
+    "name": "lab3",
+    "version": "1.0.0",
+    "description": "",
+    "main": "backend.js",
+    "scripts": {
+        "start": "backend.js"
+    },
+    "keywords": [
+        "express"
+    ],
+    "dependencies": {
+        "express": "^4.17.1",
+        "express-hateoas-links": "^1.2.0",
+        "fetch": "^1.1.0",
+        "fs": "0.0.1-security",
+        "http": "0.0.1-security",
+        "http-server": "^0.12.3",
+        "node-fetch": "^2.6.1",
+        "pg": "^8.5.1",
+        "request": "^2.88.2"
+    }
+}
