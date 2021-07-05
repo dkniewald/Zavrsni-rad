@@ -2,7 +2,7 @@
 Zavrsni rad 2020/2021.
 
 Za pokretanje aplikacije potrebno je imati instaliran Node.js.
-# Posluziteljska strana
+# Poslužiteljska strana
  1. Pozicionirati se u direktorij 'backend'
  2. Pozvati naredbu npm install
  3. Pozvati naredbu node backend.js
